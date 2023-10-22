@@ -1,0 +1,26 @@
+/* style.css */
+.Titulo_principal {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.Descripcion {
+  font-size: 16px;
+  color: #666;
+}
+
+.Titulo_de_modulo {
+  font-size: 20px;
+  font-weight: bold;
+  color: #0077b6;
+}
+
+/* Estilo para el fondo del módulo 1 */
+.Modulo1 {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin: 10px 0;
+  border-radius: 5px;
+}
